@@ -1,0 +1,20 @@
+body {
+  background-color: teal;
+  font-family: sans-serif;
+  color: white;
+}
+
+p {
+  margin-top: 40px;
+}
+
+a{
+  color: pink;
+  text-decoration: underline wavy;
+}
+
+img{
+  margin: 20px;
+}
+
+/* CSS files add styling rules to your content */
